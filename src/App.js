@@ -8,7 +8,7 @@ export default function App() {
       <WeatherSearchEngine />
       <br />
       Coded by{" "}
-      <a href="https://github.com/Jaciecherron" target="_blank" rel="nonereferrer">
+      <a href="https://github.com/Jaciecherron" target="_blank" rel="noreferrer">
         Jacie Spivey </a>
       hosted on Netlify
     </div>
