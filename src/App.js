@@ -10,7 +10,7 @@ export default function App() {
       Coded by{" "}
       <a href="https://github.com/Jaciecherron" target="_blank" rel="noreferrer">
         Jacie Spivey </a>
-      hosted on Netlify
+      hosted on <a href="https://spontaneous-semolina-ccfd63.netlify.app/" target="_blank" rel="noreferrer" Netlify
     </div>
   );
 }
